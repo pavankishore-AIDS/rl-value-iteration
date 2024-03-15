@@ -83,13 +83,14 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ## OUTPUT:
 
 ### Optimal policy by value iteration:
-![rlo1](https://github.com/obedotto/rl-value-iteration/assets/94154941/12506abc-3442-4bea-858e-ec37d05bebea)
+![rlo1](https://github.com/pavankishore-AIDS/rl-value-iteration/assets/94154941/14d819a4-c562-468e-b879-b031279e5c3d)
+
 
 ### Goal percentage of optimal policy by value iteration:
-![rlo2](https://github.com/obedotto/rl-value-iteration/assets/94154941/77a5d8a4-2996-4f23-8760-e7d318b5d196)
+![rlo2](https://github.com/pavankishore-AIDS/rl-value-iteration/assets/94154941/35d4e116-b5d6-4b86-8375-54277bd03cdc)
 
 ### Optimal policy state-value function by value iteration:
-![rlo3](https://github.com/obedotto/rl-value-iteration/assets/94154941/f79c5e92-f8c8-4d3c-ab2f-8fe26112b6fc)
+![rlo3](https://github.com/pavankishore-AIDS/rl-value-iteration/assets/94154941/47ba000b-74cc-4d2a-8d1e-d5dab11f7a25)
 
 
 ## RESULT:
